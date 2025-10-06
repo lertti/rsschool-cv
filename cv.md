@@ -43,3 +43,16 @@ function findOdd(A) {
 }
 ```
 ---
+### Education:
+* Belarusian National Technical University 
+---
+### Courses:
+* [Codecademy](https://codecademy.com/)
+* [HTML Academy](https://htmlacademy.ru/)
+* [FreeCodeCamp](https://FreeCodeCamp.org/)
+---
+### Languages:
+* Belorussian - Native
+* Russian - Native
+* English - Intermediate (in reading and writing)
+* German - Basic (A2)
